@@ -16,4 +16,9 @@
 	<p>브랜치 초기화 - 특정 지점으로 완전히 초기화 한다.</p>
 	<p>리버스 커밋</p>
 </body>
+<script>
+	$('p').click(function(){
+		$(this).css('color','red');
+	});
+</script>
 </html>
