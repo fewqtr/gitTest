@@ -15,6 +15,8 @@
 	<p>브랜치 초기화 - 특정 지점으로 완전히 초기화 한다.</p>
 	<p>리버스 커밋</p>
 	<button>click</button>
+	
+	<p>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</p>
 </body>
 <script>
 	$('p').click(function(){
